@@ -1,0 +1,8 @@
+# If-Else condition example
+
+marks = 45
+
+if marks >= 40:
+    print("Pass")
+else:
+    print("Fail")
