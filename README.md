@@ -81,7 +81,7 @@ problem-solving ability.
 ---
 
 ## 📬 Connect
-- GitHub: (your profile link)
+- GitHub: (https://github.com/madhavsharma963420-create)
 - LinkedIn: (add when ready)
 
 📌 *This repository is updated regularly as I progress.*
